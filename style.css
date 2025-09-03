@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+#qr-component {
+    width: 320px;
+    height: 499px;
+    padding: 16px;
+}
+
+#qr-component img {
+    max-width: 100%;
+    border-radius: 10px;
+}
