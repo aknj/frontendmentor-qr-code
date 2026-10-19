@@ -57,5 +57,6 @@ body {
 #qr-component p {
     font-size: 15px;
     line-height: 1.4;
+    letter-spacing: 0.2px;
     color: var(--slate-500);
 }
